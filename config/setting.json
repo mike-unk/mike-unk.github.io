@@ -1,12 +1,12 @@
 {
   "config": {
+    "branch": "master",
+    "domain": "https://mike-unk.github.io/",
+    "email": "mike_unk@outlook.com",
     "platform": "github",
-    "domain": "",
-    "repository": "",
-    "branch": "",
-    "username": "",
-    "email": "",
-    "token": ""
+    "repository": "mike-unk.github.io",
+    "token": "Wyd20060609",
+    "username": "mike-unk"
   },
   "comment": {
     "commentPlatform": "gitalk",
